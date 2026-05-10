@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[39360,["/todo-next/_next/static/chunks/0dbhjjzl8qfwv.js","/todo-next/_next/static/chunks/0vcua-g1cyklq.js"],"TodoList"]
+3:I[97367,["/todo-next/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-background px-4 py-12","children":["$","div",null,{"className":"mx-auto max-w-2xl space-y-8","children":[["$","div",null,{"className":"text-center space-y-1","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight","children":"TODOリスト"}],["$","p",null,{"className":"text-muted-foreground text-sm","children":"タスクを管理しましょう"}]]}],["$","$L2",null,{}]]}]}],[["$","script","script-0",{"src":"/todo-next/_next/static/chunks/0vcua-g1cyklq.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PZgUo4OFQgbDtfb-u2OC0"}
+5:null
